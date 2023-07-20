@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Adityapalodkar@gmail.com**
 
-- 📄 Know about my experiences [https://adityapalodkarportfolio.netlify.app/adityapalodkar.pdf](https://adityapalodkarportfolio.netlify.app/adityapalodkar.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
