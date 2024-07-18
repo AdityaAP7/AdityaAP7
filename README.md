@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [www.redfynd.com](https://www.redfynd.com/)
 
-- 🌱 I’m currently learning **React, React-Native, TypeScript and PostgreSQL**
+- 🌱 I’m currently learning **React, React-Native, TypeScript and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://adityapalodkarportfolio.netlify.app/](https://adityapalodkarportfolio.netlify.app/)
 
