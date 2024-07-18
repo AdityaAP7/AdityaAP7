@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityaaap7" target="blank"><img src="https://img.shields.io/twitter/follow/adityaaap7?logo=twitter&style=for-the-badge" alt="adityaaap7" /></a> </p>
 
-- 🔭 I’m currently working on [www.gativan.in(https://gativan.in/)] previous project [www.redfynd.com](https://www.redfynd.com/)
+- 🔭 I’m currently working on [www.gativan.in](https://gativan.in/) 
 
 - 🌱 I’m currently learning **React, React-Native, TypeScript and MongoDB**
 
