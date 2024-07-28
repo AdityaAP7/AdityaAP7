@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, React-Native, TypeScript and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://adityapalodkarportfolio.netlify.app/](https://adityapalodkarportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adityapalodkarportfolio.netlify.app/](https://adityapalodkar.tech/)
 
 - 💬 Ask me about ** React Native and MERN Stack**
 
