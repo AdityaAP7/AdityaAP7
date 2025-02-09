@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Palodkar</h1>
 <h3 align="center">A passionate Front-end developer and JavaScript enthusiast from India</h3>
 
-<p align="left"> <a href="https://twitter.com/adityaaap7" target="blank"><img src="https://img.shields.io/twitter/follow/adityaaap7?logo=twitter&style=for-the-badge" alt="adityaaap7" /></a> </p>
 
 - 🌱 I’m currently learning **React, React-Native, TypeScript and MongoDB**
 
