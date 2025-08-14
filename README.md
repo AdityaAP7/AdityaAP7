@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-end developer and JavaScript enthusiast from India</h3>
 
 
-- 🌱 I’m currently learning **React, React-Native, TypeScript and MongoDB**
+- 🌱 I’m currently learning **React, React-Native, ELectron, TypeScript and MongoDB**
 
 - 👨‍💻 All of my projects are available at https://adityapalodkar.tech/
 
